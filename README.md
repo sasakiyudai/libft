@@ -2,6 +2,6 @@
 
 ## Usage
 
-Use `make` to make libft.a without bonus.
+```make bonus```
 
-Use `make bonus` to make libft.a with bonus.
+libcの再実装
